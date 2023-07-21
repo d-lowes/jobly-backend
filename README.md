@@ -21,12 +21,12 @@ To install the backend application, follow these steps:
 
 Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/d-lowes/express-jobly.git
+git clone https://github.com/d-lowes/jobly-backend.git
 ```
 
 Navigate to the cloned repository:
 ```bash
-cd express-jobly
+cd jobly-backend
 ```
 
 Install the project dependencies:
